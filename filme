@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Velozes e Furiosos" tvg-logo="https://image.tmdb.org/t/p/original/x4So4OkqnjfOSBCCNd5uosMmQiB.jpg"
+https://www632.o0-2.com/token=jsNVUkArGtMnFyvFc-DUkg/1583545338/2804:7f1::/42/4/25/48b53a9d69baa9a743557027482c1254-360p.mp4
+
+#EXTINF:-1 tvg-name="Turbo Charged Prelude" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y2ODBjN2QtZTE3OS00NDliLWIwZjktMmY5MmQyZDMzNWMyXkEyXkFqcGdeQXVyNjUyODQ4NzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+https://vod-progressive.akamaized.net/exp=1583536712~acl=%2A%2F370345192.mp4%2A~hmac=1ed373c3d37d07859dc01d570803230b838435d4237752ba0b2d6fede0cf7c22/vimeo-prod-skyfire-std-us/01/701/5/128509478/370345192.mp4
+
+#EXTINF:-1 tvg-name="+Velozes +Furiosos" tvg-logo="https://static.cineclick.com.br/adm/uploads/banco_imagens/69/1080x1620_1566418043.jpg"
+http://bit.ly/VelozesFuriosos2
+
+#EXTINF:-1 tvg-name="Velozes e Furiosos 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/8f/Fast_and_Furious_Poster.jpg/250px-Fast_and_Furious_Poster.jpg"
+http://bit.ly/VelozeseFuriosos4
+
+#EXTINF:-1 tvg-name="Velozes e Furiosos 5 Operação Rio" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c5/Fast_five_poster_04.jpg/250px-Fast_five_poster_04.jpg"
+https://r6---sn-bg07dnz7.googlevideo.com/videoplayback?expire=1583539968&ei=4MpiXv-YFJeG1gK64KX4Bw&ip=78.46.237.187&id=b9e3817270bf2749&itag=22&source=picasa&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=7821.386&lmt=1582091749520387&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ADKhkGMwRAIgC77wqkTwVx6fbHE47YuiRYK-uYJL9dj1fgsCVU8FSpkCIEKsnnvywfjeXudnctO7r4uDsltxHADaaJZNva2ulGgY&cms_redirect=yes&mip=2804:7f1:2180:d11d:403a:74d6:5376:3949&mm=30&mn=sn-bg07dnz7&ms=nxu&mt=1583534116&mv=m&mvi=5&pl=36&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRAIgKQmow_AhgYzMoh1P2Zz8TIHOXbz1q8PozTW9rkvsoSECIEMe9kOthXcvJ9gML68jzn8eQly6vnTRmrIKPZ-ILSr-
+
+#EXTINF:-1 tvg-name="Velozes e Furiosos 6" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/4c/Fast_%26_Furious_6.jpg/240px-Fast_%26_Furious_6.jpg"
+https://r1---sn-bg07dney.googlevideo.com/videoplayback?expire=1583539700&ei=1MliXvqfBKGO8gPdzqqwDA&ip=78.47.71.40&id=4ee94013cfb85f4a&itag=22&source=picasa&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=7863.019&lmt=1583059752652924&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ADKhkGMwRQIgdSciytslUmdz1c5ZQV-hOJrKJ7Yuhjxlxw1rPKllBu8CIQD7_g-rCfcCvW52Dz3KMMCW42ET220tCgP-Jsyka7B7gg==&cms_redirect=yes&mip=2804:7f1:2180:d11d:403a:74d6:5376:3949&mm=30&mn=sn-bg07dney&ms=nxu&mt=1583534656&mv=m&mvi=5&pl=36&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRAIgRRlWCsgA5sFXB8cxVa2QzBekuI8pb4R3MQz-nscYmDcCIH3GgciJMK0RUba8etjQTgg8ROyjKNRpN79R5Ur3DVCW&ir=1&rr=12
+
+#EXTINF:-1 tvg-name="Desafio em Tóquio" tvg-logo="https://static.cineclick.com.br/adm/uploads/banco_imagens/69/1080x1620_1566423175.jpg"
+https://r2---sn-bg0ezn7z.googlevideo.com/videoplayback?expire=1583538983&ei=B8diXv-4B8jB1gK_tqXoCg&ip=78.47.71.40&id=3119000954d24c70&itag=18&source=picasa&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&dur=6254.294&lmt=1583447077499966&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,dur,lmt&sig=ADKhkGMwRQIhAN-dm_NbqLu4_l5egXQ3p-NRFNbG9YDbUKBR7Un2AyomAiAFrdZIlatlwO9YRPhRE-f8rSz4sTNh7GIsf1J4ueUWJQ==&cms_redirect=yes&mip=2804:7f1:2180:d11d:403a:74d6:5376:3949&mm=30&mn=sn-bg0ezn7z&ms=nxu&mt=1583534956&mv=m&mvi=1&pl=36&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRgIhAPJRw4Rgr45RF1jJuapBmiGq2Y-wcad58mI1ddUEYS6WAiEAuDjmtv32a3bYxzH9I88lSTRGNDkciRsT3sk1qAPBxig%3D
+
+#EXTINF:-1 tvg-name="Velozes e Furiosos 7" tvg-logo="https://ottvsimg.ottvs.com.br/cov/uni.036987/0036987_335.jpg"
+https://r4---sn-bg07dnze.googlevideo.com/videoplayback?expire=1583536173&ei=DbxiXo73N5mk8gPlv5Z4&ip=78.46.192.206&id=55616d44fa44a8ef&itag=18&source=picasa&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&dur=8395.012&lmt=1583470822147237&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,dur,lmt&sig=ADKhkGMwRgIhAOayGr8GgmsJTsAIGkqhFdRUqMNiVyYoqYNkx_6GuHurAiEAtjiGb7s6WjzDGou2AfzV6AG-DX1l_zVCkG3SjgzLCF4=&cms_redirect=yes&mip=2804:7f1:2180:d11d:403a:74d6:5376:3949&mm=30&mn=sn-bg07dnze&ms=nxu&mt=1583535137&mv=m&mvi=3&pl=36&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRQIgHlBLJBkX8Rxo_mYSfQO8SmSSIfsR2cJTGVmiR7uoTF8CIQCqs7nMHrCu8LaaRwlmiZZCuhpKzLSM7JSMwVzzBBypag%3D%3D
+
+#EXTINF:-1 tvg-name="Velozes e Furiosos 8" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4QRYCYHMrtWDBhJwKwWv0rqF4K55WxHCPwVlzgunJ75ybzW7j"
+https://r3---sn-bg0ezn7l.googlevideo.com/videoplayback?expire=1583537112&ei=uL9iXqjnCsT01gL9wr-YBA&ip=78.46.237.187&id=efc48a8e08da5150&itag=22&source=picasa&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=8157.402&lmt=1583388002533648&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ADKhkGMwRQIgIsh4zLYlx6xXOUeuFEn33TVs2Nq5rPDQ-RQgHnJT-EACIQCqmCl07xPLKcHBWwgJam53yQar4nr_u6XmzR_LIxiMiw==&cms_redirect=yes&mip=2804:7f1:2180:d11d:403a:74d6:5376:3949&mm=30&mn=sn-bg0ezn7l&ms=nxu&mt=1583535376&mv=m&mvi=2&pl=36&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRgIhAIOo9c7EKf9x6cSdt-ExxVwQPDnnmhoa5-ufQ1SSQnmKAiEAofM95By6mRa_SkKS1jX2psYJBYnh3omHr7VFkJg9a3Y%3D
+
+#EXTINF:-1 tvg-name="Velozes e Furiosos: Hobbs e Shawn" tvg-logo="https://br.web.img3.acsta.net/pictures/19/07/05/17/41/1616389.jpg"
+https://r5---sn-bg0ezn7s.googlevideo.com/videoplayback?expire=1583541878&ei=VtJiXrPtA4io8gOuqbGIBw&ip=78.46.237.187&id=b514399e59c30186&itag=22&source=picasa&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=8155.475&lmt=1583363126159549&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ADKhkGMwRQIhANks3T2sjETiq-jSyZfvA615iCVHbQaWszVjN3NtU7fVAiB2-ejqWoSnUKrbfLhVGqiR1kFXyV-7y-rwNshrvq0GMQ==&cms_redirect=yes&mip=2804:7f1:2180:d11d:403a:74d6:5376:3949&mm=30&mn=sn-bg0ezn7s&ms=nxu&mt=1583535677&mv=m&mvi=4&pl=36&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=ABSNjpQwRgIhAOHWk0WoGqyr_Mq3OpECn29yqhWMdg8j4Tr-Dxdd-oJoAiEAiuRs21lfdZibBiyQghvNhx23GaFqDe9wrUUq_kOL_DA%3D
