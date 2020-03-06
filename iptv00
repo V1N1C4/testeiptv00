@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CARTOON NETWORK SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/CARTOON_NETWORK_logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4394
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nick.png" group-title="CANAIS INFANTIL",NICKELODEON SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4345
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTOS",SBT HD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/6889
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RJ SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/7547
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images.png" group-title="CANAIS TELECINE",TELECINE ACTION SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4320
+#EXTINF:-1 tvg-id="TelecineFun" tvg-name="TELECINE FUN SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/br_telecine-fun-hd_m-1.png" group-title="CANAIS TELECINE",TELECINE FUN SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4318
+#EXTINF:-1 tvg-id="TelecinePipoca" tvg-name="TELECINE PIPOCA SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/20151112151057-canal-telecine-pipoca-hd.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4317
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/images-1.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4316
+#EXTINF:-1 tvg-id="TelecineTouch" tvg-name="TELECINE TOUCH SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/849pB2j.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4315
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_2_Logo_Poland-1.png" group-title="CANAIS HBO",HBO 2 SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4365
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="CANAIS HBO",HBO FAMILY SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4364
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/A_HBO_logo-1.png" group-title="CANAIS HBO",HBO SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4366
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/400px-HBO_Mundi.svg.png" group-title="CANAIS HBO",HBO MUNDI SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4358
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Plus-1.png" group-title="CANAIS HBO",HBO PLUS SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4363
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANAIS HBO",HBO POP SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4355
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-HBO_Signature.svg_-1.png" group-title="CANAIS HBO",HBO SIGNATURE SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4361
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME SD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CANAIS HBO",HBO XTREME SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4357
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX-TV-logo.png" group-title="CANAIS FILMES E SERIES",FOX SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4375
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium1.png" group-title="CANAIS FILMES E SERIES",Fox Premium 1 SD²
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/39578
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 2 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/foxpremium2.png" group-title="CANAIS FILMES E SERIES",Fox Premium 2 SD²
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/39577
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="FOX SPORTS 2 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="CANAIS ESPORTE",FOX SPORTS 2 SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4372
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="FOX SPORTS SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_Sports_logo.png" group-title="CANAIS ESPORTE",FOX SPORTS SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4373
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tntfilmes-1.png" group-title="CANAIS FILMES E SERIES",TNT SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4312
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/space.png" group-title="CANAIS FILMES E SERIES",SPACE SD¹
+http://srv.tvprodigital.net:25461/a9b2njfd8Dy4/l12ehaRI9Bf/4328
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos: Hobbs & Shaw - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg" group-title="FILMES - LANCAMENTOS",Velozes e Furiosos: Hobbs & Shaw - 2019
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/36546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 10 - 2021" tvg-logo="http://srv.tvprodigital.net:80/images/c716a8ee8ee17dffd830482e78c7dc14.jpg" group-title="FILMES - LANCAMENTOS",Velozes e Furiosos 10 - 2021
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 10 - 2021" tvg-logo="http://srv.tvprodigital.net:80/images/c716a8ee8ee17dffd830482e78c7dc14.jpg" group-title=" FILMES - ACAO",Velozes e Furiosos 10 - 2021
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 10 - 2021" tvg-logo="http://srv.tvprodigital.net:80/images/c716a8ee8ee17dffd830482e78c7dc14.jpg" group-title=" FILMES - ACAO",Velozes e Furiosos 10 - 2021
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 10 - 2021" tvg-logo="http://srv.tvprodigital.net:80/images/c716a8ee8ee17dffd830482e78c7dc14.jpg" group-title=" FILMES - ACAO",Velozes e Furiosos 10 - 2021
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 10 - 2021" tvg-logo="http://srv.tvprodigital.net:80/images/c716a8ee8ee17dffd830482e78c7dc14.jpg" group-title=" FILMES - ACAO",Velozes e Furiosos 10 - 2021
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos: Desafio em Tóquio - 2006" tvg-logo="http://srv.tvprodigital.net:80/images/0153f52e8538e85bee1e32fcd4422529.jpg" group-title=" FILMES - ACAO",Velozes e Furiosos: Desafio em Tóquio - 2006
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 8 - 2017" tvg-logo="http://srv.tvprodigital.net:80/images/69731ed70741c4610180cc23ece997ac.jpg" group-title="FILMES - LANCAMENTOS",Velozes e Furiosos 8 - 2017
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carros3Dublado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVPFdORefTKXKFiSktrXbiFDNAK.jpg" group-title="FILMES - FAMILIA",Carros3Dublado
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg" group-title="FILMES - FAMILIA",Carros - 2006
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vis4PBCmXL29nx7e6ELaFjZM8NL.jpg" group-title="FILMES - FAMILIA",Carros 
+http://srv.tvprodigital.net:25461/movie/a9b2njfd8Dy4/l12ehaRI9Bf/35925.mp4
